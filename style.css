@@ -1,11 +1,12 @@
-.class {
-
-    background-color: #ccc; 
+header {
+    font-family: Arial, sans-serif;
+    background-color: #616161;
 }
 
-.lorem {
-    
-     font-size: 20px;
+theader h1 {
+    font-family: Arial, sans-serif;
+    background-color: #616161;
+    color: white;
+    padding: 10px;
+    border-dash 
 }
-
-
