@@ -10,9 +10,9 @@ Repositório dedicado à prática e consolidação dos conceitos base de desenvo
 
 ##  Progresso dos Exercícios
 - [x] **Ex 1:** Estrutura e Meta tags
-- [ ] **Ex 2:** Títulos, Parágrafos e Semântica
-- [ ] **Ex 3:** Div, Id e Hierarquia
-- [ ] **Ex 4:** Box Model
+- [x] **Ex 2:** Títulos, Parágrafos e Semântica
+- [x] **Ex 3:** Div, Id e Hierarquia
+- [x] **Ex 4:** Box Model
 - [ ] **Ex 5:** Display e Overflow
 - [ ] **Ex 6:** Position
 - [ ] **Ex 7:** Formulário completo
